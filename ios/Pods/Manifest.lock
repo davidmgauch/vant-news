@@ -1,0 +1,93 @@
+PODS:
+  - BVLinearGradient (2.4.0):
+    - React
+  - React (0.53.0):
+    - React/Core (= 0.53.0)
+  - react-native-geocoder (0.5.0):
+    - React
+  - react-native-maps (0.20.1):
+    - React
+  - React/BatchedBridge (0.53.0):
+    - React/Core
+    - React/cxxreact_legacy
+  - React/Core (0.53.0):
+    - yoga (= 0.53.0.React)
+  - React/cxxreact_legacy (0.53.0):
+    - React/jschelpers_legacy
+    - React/jsinspector_legacy
+  - React/fishhook (0.53.0)
+  - React/jschelpers_legacy (0.53.0)
+  - React/jsinspector_legacy (0.53.0)
+  - React/RCTActionSheet (0.53.0):
+    - React/Core
+  - React/RCTAnimation (0.53.0):
+    - React/Core
+  - React/RCTBlob (0.53.0):
+    - React/Core
+  - React/RCTGeolocation (0.53.0):
+    - React/Core
+  - React/RCTImage (0.53.0):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTLinkingIOS (0.53.0):
+    - React/Core
+  - React/RCTNetwork (0.53.0):
+    - React/Core
+  - React/RCTSettings (0.53.0):
+    - React/Core
+  - React/RCTText (0.53.0):
+    - React/Core
+  - React/RCTVibration (0.53.0):
+    - React/Core
+  - React/RCTWebSocket (0.53.0):
+    - React/Core
+    - React/fishhook
+    - React/RCTBlob
+  - RNVectorIcons (4.5.0):
+    - React
+  - yoga (0.53.0.React)
+
+DEPENDENCIES:
+  - BVLinearGradient (from `../node_modules/react-native-linear-gradient`)
+  - react-native-geocoder (from `../node_modules/react-native-geocoder`)
+  - react-native-maps (from `../node_modules/react-native-maps`)
+  - React/BatchedBridge (from `../node_modules/react-native`)
+  - React/Core (from `../node_modules/react-native`)
+  - React/RCTActionSheet (from `../node_modules/react-native`)
+  - React/RCTAnimation (from `../node_modules/react-native`)
+  - React/RCTGeolocation (from `../node_modules/react-native`)
+  - React/RCTImage (from `../node_modules/react-native`)
+  - React/RCTLinkingIOS (from `../node_modules/react-native`)
+  - React/RCTNetwork (from `../node_modules/react-native`)
+  - React/RCTSettings (from `../node_modules/react-native`)
+  - React/RCTText (from `../node_modules/react-native`)
+  - React/RCTVibration (from `../node_modules/react-native`)
+  - React/RCTWebSocket (from `../node_modules/react-native`)
+  - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
+  - yoga (from `../node_modules/react-native/ReactCommon/yoga/yoga.podspec`)
+
+EXTERNAL SOURCES:
+  BVLinearGradient:
+    :path: ../node_modules/react-native-linear-gradient
+  React:
+    :path: ../node_modules/react-native
+  react-native-geocoder:
+    :path: ../node_modules/react-native-geocoder
+  react-native-maps:
+    :path: ../node_modules/react-native-maps
+  RNVectorIcons:
+    :path: ../node_modules/react-native-vector-icons
+  yoga:
+    :path: ../node_modules/react-native/ReactCommon/yoga/yoga.podspec
+
+SPEC CHECKSUMS:
+  BVLinearGradient: 8913bd8fdc47b85abc801ae8bae007bbfb6b4ce5
+  React: 6a94a44468604816ad2fd3bae908b2ebbab0f95d
+  react-native-geocoder: 757427682892bb256f3b3745858cc90eba148a8e
+  react-native-maps: 6ab4fa4f78e88824ec300de0eb412f0556b6a84b
+  RNVectorIcons: 00632755ab42ae7b7d1a5877c9840d71e808efad
+  yoga: 36cb943786c0587f19094c593b5683074d679c46
+
+PODFILE CHECKSUM: 333936d8050a4014bbe0607b6918fc4b2ffda327
+
+COCOAPODS: 1.2.1

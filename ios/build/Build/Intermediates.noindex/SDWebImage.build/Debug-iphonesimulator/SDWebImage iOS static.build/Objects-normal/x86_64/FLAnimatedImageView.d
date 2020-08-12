@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12\ small\ tweaks/Vant/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/FLAnimatedImage/FLAnimatedImage/FLAnimatedImageView.m \
+  /Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12\ small\ tweaks/Vant/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/FLAnimatedImage/FLAnimatedImage/FLAnimatedImageView.h \
+  /Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12\ small\ tweaks/Vant/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/FLAnimatedImage/FLAnimatedImage/FLAnimatedImage.h

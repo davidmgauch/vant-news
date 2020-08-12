@@ -1,0 +1,196 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/ios/build/Build/Products/Debug-iphonesimulator/BVLinearGradient",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "BVLinearGradient.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradient.h"
+        },
+        {
+          'type': 'file',
+          'name': "BVLinearGradientManager.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-linear-gradient/BVLinearGradient/BVLinearGradientManager.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/ios/build/Build/Products/Debug-iphonesimulator/RNVectorIcons",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RNVectorIconsManager.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-vector-icons/RNVectorIconsManager/RNVectorIconsManager.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/ios/build/Build/Products/Debug-iphonesimulator/react-native-geocoder",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RNGeocoder.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-geocoder/ios/RNGeocoder/RNGeocoder.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/ios/build/Build/Products/Debug-iphonesimulator/react-native-maps",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AIRMap.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMap.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapCallout.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCallout.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapCalloutManager.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCalloutManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapCircle.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCircle.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapCircleManager.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCircleManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapCoordinate.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCoordinate.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapLocalTile.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapLocalTile.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapLocalTileManager.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapLocalTileManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapLocalTileOverlay.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapLocalTileOverlay.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapManager.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapMarker.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapMarkerManager.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarkerManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapPolygon.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolygon.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapPolygonManager.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolygonManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapPolyline.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolyline.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapPolylineManager.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapPolylineRenderer.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineRenderer.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapSnapshot.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapSnapshot.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapUrlTile.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapUrlTile.h"
+        },
+        {
+          'type': 'file',
+          'name': "AIRMapUrlTileManager.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapUrlTileManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "RCTConvert+AirMap.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/RCTConvert+AirMap.h"
+        },
+        {
+          'type': 'file',
+          'name': "SMCalloutView.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native-maps/lib/ios/AirMaps/Callout/SMCalloutView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/ios/build/Build/Products/Debug-iphonesimulator/yoga",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "YGEnums.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h"
+        },
+        {
+          'type': 'file',
+          'name': "YGMacros.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "YGNode.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native/ReactCommon/yoga/yoga/YGNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "YGNodePrint.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.h"
+        },
+        {
+          'type': 'file',
+          'name': "Yoga-internal.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "Yoga.h",
+          'external-contents': "/Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12 small tweaks/Vant/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h"
+        }
+      ]
+    }
+  ]
+}

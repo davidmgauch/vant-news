@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12\ small\ tweaks/Vant/node_modules/react-native/Libraries/Vibration/RCTVibration.m \
+  /Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12\ small\ tweaks/Vant/node_modules/react-native/Libraries/Vibration/RCTVibration.h \
+  /Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12\ small\ tweaks/Vant/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/dgauch/Documents/ReactNative/_more/z_Vant_Archive/7-12\ small\ tweaks/Vant/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h

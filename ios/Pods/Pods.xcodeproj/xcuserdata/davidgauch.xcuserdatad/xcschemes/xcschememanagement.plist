@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BVLinearGradient.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>49</integer>
+		</dict>
+		<key>Pods-Vant.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>50</integer>
+		</dict>
+		<key>RNVectorIcons.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>53</integer>
+		</dict>
+		<key>react-native-geocoder.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>51</integer>
+		</dict>
+		<key>react-native-maps.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>52</integer>
+		</dict>
+		<key>yoga.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>54</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

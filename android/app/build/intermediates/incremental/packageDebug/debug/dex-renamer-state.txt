@@ -1,0 +1,4 @@
+#Wed Aug 01 20:56:26 PDT 2018
+base.0=/Users/dgauch/Documents/ReactNative/Vant/android/app/build/intermediates/transforms/dexMerger/debug/38
+path.0=classes.dex
+renamed.0=classes.dex

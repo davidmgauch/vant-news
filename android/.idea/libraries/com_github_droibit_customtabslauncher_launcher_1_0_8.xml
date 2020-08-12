@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.droibit.customtabslauncher:launcher-1.0.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/launcher-1.0.8.aar/dd3a5f196cef3d85e5d3d046f6158e3d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/launcher-1.0.8.aar/dd3a5f196cef3d85e5d3d046f6158e3d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.droibit.customtabslauncher/launcher/1.0.8/1193d8a1c9e3f3ec70ccfa608f71366678b0920b/launcher-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
